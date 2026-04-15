@@ -1,3 +1,5 @@
 flask
 textblob
 requests
+gunicorn
+uvicorn
